@@ -12,7 +12,7 @@ The primary objective of this project is to analyze sales data to uncover insigh
 
 This dataset contain detailed information about sales, including specifics about the customers, quantities, pricing, dates, regions , products & categorization details.
 
-## SQL Codes
+## SQL Queries
 
 SQL is utilized to query the sales database, extracting relevant data such as Unit Price, Quantity & product specifics. This data is then cleaned and aggregated to identify trends, patterns, and anomalies in sales, such as peak sales times, Percentage sales by City & Category. SQL is  employed to query the sales database, retrieving data on individual seller transactions, sales volumes, and Total Revenue.
 
